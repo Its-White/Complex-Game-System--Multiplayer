@@ -1,0 +1,61 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+    Driver:   21.21.13.7633
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\s171302\Documents\Multiplayer Lobby\main_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\s171302\Documents\Multiplayer Lobby\main_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\s171302\Documents\Multiplayer Lobby\main_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\s171302\Documents\Multiplayer Lobby\main_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\s171302\Documents\Multiplayer Lobby\main_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\s171302\Documents\Multiplayer Lobby\main_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\s171302\Documents\Multiplayer Lobby\main_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\s171302\Documents\Multiplayer Lobby\main_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\s171302\Documents\Multiplayer Lobby\main_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\s171302\Documents\Multiplayer Lobby\main_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\s171302\Documents\Multiplayer Lobby\main_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\s171302\Documents\Multiplayer Lobby\main_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\s171302\Documents\Multiplayer Lobby\main_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\s171302\Documents\Multiplayer Lobby\main_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.025 seconds
+Platform assembly: C:\Users\s171302\Documents\Multiplayer Lobby\main_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\s171302\Documents\Multiplayer Lobby\main_Data\Managed\System.dll (this message is harmless)
+desktop: 1680x1050 59Hz; virtual: 3360x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.957235 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 28f8 -> priority: 1 
+  Thread -> id: 3298 -> priority: 1 
+Failed to spawn server object, assetId=c4468c3586486b240b8b4170bb3575ac netId=3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to spawn server object, assetId=c4468c3586486b240b8b4170bb3575ac netId=4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.527671 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.639666 ms (FindLiveObjects: 0.013584 ms CreateObjectMapping: 0.025055 ms MarkObjects: 0.161501 ms  DeleteObjects: 0.438921 ms)
+
+Failed to spawn server object, assetId=c4468c3586486b240b8b4170bb3575ac netId=3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to spawn server object, assetId=c4468c3586486b240b8b4170bb3575ac netId=5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777}
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
